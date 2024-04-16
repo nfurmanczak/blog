@@ -21,7 +21,7 @@
       <link>http://localhost:1313/posts/dkim/</link>
       <pubDate>Mon, 10 Apr 2023 17:21:55 +0200</pubDate>
       <guid>http://localhost:1313/posts/dkim/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.</description>
+      <description>DKIM-Signatur via Postfix und openDKIM DKIM (DomainKeys Identify Mails) ermöglicht es, ausgehende E-Mails (Header und Body) mithilfe eines privaten Schlüssels zu signieren. Diese Signatur kann der Empfänger mit dem öffentlichen Schlüssel aus der DNS-Zone des Versenders überprüfen.</description>
     </item>
     <item>
       <title>Kontakt</title>
