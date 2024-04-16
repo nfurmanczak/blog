@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/dns/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spf/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-04-10T21:35:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crypto/</loc>
+    <lastmod>2023-04-10T17:21:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dkim/</loc>
+    <lastmod>2023-04-10T17:21:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url>
+</urlset>

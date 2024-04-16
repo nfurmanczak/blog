@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crypto on furmanczak.de</title>
+    <link>http://localhost:1313/tags/crypto/</link>
+    <description>Recent content in Crypto on furmanczak.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>© 2023 furmanczak.de</copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 17:21:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DKIM</title>
+      <link>http://localhost:1313/posts/dkim/</link>
+      <pubDate>Mon, 10 Apr 2023 17:21:55 +0200</pubDate>
+      <guid>http://localhost:1313/posts/dkim/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio.</description>
+    </item>
+  </channel>
+</rss>
